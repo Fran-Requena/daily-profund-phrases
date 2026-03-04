@@ -74,7 +74,7 @@ export const quotes: Quote[] = [
   { text: "El hombre que ha empezado a vivir más seriamente por dentro, empieza a vivir más sencillamente por fuera.", author: "Ernest Hemingway" },
   { text: "La compasión es la base de toda moralidad.", author: "Arthur Schopenhauer" },
   { text: "El destino baraja las cartas, pero nosotros las jugamos.", author: "Arthur Schopenhauer" },
-  { text: "La única cosa que sabemos es que no sabemos nada.", author: "Sócrates" },
+  { text: "El desamor no está en su partida; está en que al irse descubras que nunca fuiste tú, que tu yo era una sombra, y que solo enfrentando ese vacío y aceptando tu soledad podrás forjar tu verdadero ser.", author: "Dedicada a Kader" },
   { text: "El mundo es un libro, y quienes no viajan leen solo una página.", author: "San Agustín" },
   { text: "La oscuridad no puede expulsar a la oscuridad; solo la luz puede hacer eso.", author: "Martin Luther King Jr." },
   { text: "El hombre es un animal racional que siempre pierde los estribos cuando se le pide que actúe de acuerdo con los dictados de la razón.", author: "Oscar Wilde" },
