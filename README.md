@@ -2,7 +2,7 @@
 
 Una aplicación web moderna que te presenta una reflexión profunda cada día del año. Conecta con la filosofía estoica y sabiduría universal a través de un diseño minimalista y contemplativo.
 
-🔗 **[Ver la aplicación en vivo]([https://fran-requena.github.io/daily-profund-phrases/))**
+🔗 **[Ver la aplicación en vivo](https://fran-requena.github.io/daily-profund-phrases/)**
 
 ![Next.js](https://img.shields.io/badge/Next.js-16.0-black?logo=next.js)
 ![React](https://img.shields.io/badge/React-19.2-blue?logo=react)
